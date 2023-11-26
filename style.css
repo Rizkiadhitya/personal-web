@@ -51,7 +51,6 @@
     }
   }
 
-
 :root{
     --dark-navy: #020c1b;
     --navy: #0a0d1f;
@@ -512,7 +511,7 @@ body[data-theme="light"] .contacts-link-btn{
     width: 1rem;
 }
 
-.site-setting{
+.Switch Theme {
     position: fixed;
     bottom: 30%;
     right: 4rem;
